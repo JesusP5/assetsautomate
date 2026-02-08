@@ -1,0 +1,17 @@
+Proyecto para automatizar la creación de las hojas de responsiva de la empresa, esto se hara
+generando una interfaz que solicite los datos necesarios para crear el archivo PDF
+
+Fases del proyecto
+
+1. Creación de archivos desde la terminal
+
+
+2. Creación de una interfaz sencilla para el uso general del equipo de IT sin conocimientos avanzados en
+programación
+
+
+3. Conectar la información recibida a una base de datos local
+
+
+4. Extrapolar la base de datos local a una base datos en la nube para crear un servicio integral
+dondé se logre obtener una información general de los assets de la empresa.
